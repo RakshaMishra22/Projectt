@@ -1,5 +1,5 @@
 **Project Title**  
-📊 Superstore Sales Analytics Dashboard
+**📊 Analytics Report**
 
 **📌 Short Description**  
 This Tableau dashboard provides an interactive overview of sales performance for a fictional Superstore in the USA. It analyzes sales, profit margins, return rates, top categories, products, and regional distribution, helping stakeholders make data-driven decisions.
