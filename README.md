@@ -26,4 +26,4 @@ This dashboard serves as a comprehensive sales and performance report for Supers
 
 **🔗 View the Interactive Dashboard:** [Click Here](https://public.tableau.com/app/profile/raksha.mishra4316/viz/Mytableauassingments/Dashboard2)
 
-![Tableau Dashboard](Tableau_dashboard.png)     
+![Tableau_Dashboard](Tableau_Dashboard.png)     
